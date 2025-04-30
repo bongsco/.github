@@ -85,11 +85,14 @@
 
 
 ## 🔧 Stack
-- **Language**: Javascript, TypeScript, Java
-- **Library & Framework** : React.js, Spring Boot
-- **Database** : AWS RDS (MySQL), AWS S3
-- **ORM** : JPA
-- **Deploy**: AWS EC2, Docker, Gihub Action
+- **Language**: Java, Javascript
+- **Documentation**: Figma, Notion, ERD Cloud, Storybook, Swagger
+- **IDE**: Intellij, Visual Studio Code
+- **Productivity**: SonarLint, Copilot
+- **Backend**: Hibernate, Spring Boot, RDS, ECS, Fargate, Cognito
+- **Frontend**: API Gateway, CloudFront, S3, React.js, ESLint
+- **Data**: Bedrock, Dataiku
+- **Infrastructure**: VPC Flow Logs, CloudWatch, EC2, Github Actions
 
 
 
