@@ -38,8 +38,8 @@
 
 | **김종하** | **김현아** | **한상진** |  **김서영** | **이은재** | 
 | :------: |  :------: | :------: |  :------: |  :------: | 
-| [<img src="https://github.com/user-attachments/assets/9912ad8f-9a6c-4c49-a3f1-84585919a659" height=150 width=150>](https://github.com/yeonnybus) | [<img src="https://github.com/user-attachments/assets/860ac980-fad4-4faf-ab92-2ae5eb2d607c" height=150 width=150> ](https://blog.naver.com/reveusellie) | [<img src="https://avatars.githubusercontent.com/u/121819862?v=4" height=150 width=150>](https://github.com/NhaRyeong) | [<img src="https://github.com/user-attachments/assets/357cac69-b5d4-4ebb-98e8-a6780c3aee03" height=150 width=150> ](https://github.com/chaeyeonKong) | [<img src="https://avatars.githubusercontent.com/u/110108243?v=4" height=150 width=150> ](https://github.com/Amepistheo) | 
-| `팀장, 프론트엔드`  | `기획` | `디자인` | `백엔드`  | `백엔드` | 
+| [<img src="https://raw.githubusercontent.com/bongsco/.github/main/assets/kingbird.png" height=150 width=150>](https://github.com/Godbell) | [<img src="https://raw.githubusercontent.com/bongsco/.github/main/assets/bird.png" height=150 width=150>](https://github.com/h7eona) | [<img src="https://raw.githubusercontent.com/bongsco/.github/main/assets/bird.png" height=150 width=150>](https://github.com/eu2525) | [<img src="https://raw.githubusercontent.com/bongsco/.github/main/assets/bird.png" height=150 width=150>](https://github.com/seoyoung0121) | [<img src="https://raw.githubusercontent.com/bongsco/.github/main/assets/bird.png" height=150 width=150>](https://github.com/lej8924) | 
+| `Project Manager`  | `Auth` | `Devops` | `Data`  | `Dataiku` | 
 
 
 
