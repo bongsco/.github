@@ -48,7 +48,7 @@
 </div>
 
 
->  ✅사용자 친화적인 연봉조정시스템 👉 https://bongso.site
+>  ✅사용자 친화적인 연봉조정시스템 👉 https://bongsco.site
 
 
 
