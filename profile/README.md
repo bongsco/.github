@@ -13,20 +13,13 @@
 ![Gradle](https://img.shields.io/badge/Build_Tool-Gradle-02303A?style=flat&logo=gradle&logoColor=white)
 ![Lombok](https://img.shields.io/badge/Dependency-Lombok-8BC34A?style=flat&logo=lombok&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Dependency-Swagger-85EA2D?style=flat&logo=swagger&logoColor=black)
-![Spring Security](https://img.shields.io/badge/Dependency-Spring_Security-6DB33F?style=flat&logo=spring-security&logoColor=white)
 ![JWT](https://img.shields.io/badge/Dependency-JWT-000000?style=flat&logo=json-web-tokens&logoColor=white)
-![SMTP](https://img.shields.io/badge/Dependency-SMTP-D14836?style=flat&logo=gmail&logoColor=white)
 ![React](https://img.shields.io/badge/react-18.3.1-61DAFB?style=flat&logo=react&logoColor=%2361DAFB)
-![ReactQuery](https://img.shields.io/badge/reactQuery-5.51.11-FF4154?style=flat&logo=react%20query)
-![Axios](https://img.shields.io/badge/Axios-1.7.2-5A29E4?style=flat&logo=axios&logoColor=5A29E4)
 ![react-router-dom](https://img.shields.io/badge/ReactRouter-6.23.1-CA4245?style=flat&logo=React%20Router)
 ![styled-component](https://img.shields.io/badge/Styled_Component-6.1.11-DB7093?style=flat&logo=styled-components)
 ![Javascript](https://img.shields.io/badge/Javascript-ES6+-F7DF1E?style=flat&logo=JavaScript)
 ![Typescript](https://img.shields.io/badge/Typescript-4.9.5-3178C6?style=flat&logo=TypeScript)
 ![Jest](https://img.shields.io/badge/Jest-29.7.0-323330?style=flat&logo=Jest)
-
-
-
 
 ## 💘팀 소개
 
